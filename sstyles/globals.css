@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  background: #f8fbe9;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+a { text-decoration: underline; }
+main ul { padding-left: 18px; }
